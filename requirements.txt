@@ -1,8 +1,4 @@
-sys
-signal
-shutil
 threading
-time
 mysql-connector-python
 pandas
 selenium
