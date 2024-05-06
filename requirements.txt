@@ -1,0 +1,11 @@
+multiprocessing
+sys
+signal
+shutil
+threading
+time
+mysql-connector-python
+pandas
+selenium
+beautifulsoup4
+psutil
