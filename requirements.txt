@@ -1,4 +1,3 @@
-threading
 mysql-connector-python
 pandas
 selenium
